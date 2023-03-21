@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589841486 source:d:\adriano douglas\desktop\atividade i.p\funções 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

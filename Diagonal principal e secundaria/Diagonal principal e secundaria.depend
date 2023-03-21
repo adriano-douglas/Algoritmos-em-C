@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590271340 source:d:\adriano douglas\desktop\codeblocks\diagonal principal e secundaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

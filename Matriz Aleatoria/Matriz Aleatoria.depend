@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589820368 source:d:\adriano douglas\desktop\codeblocks\matriz aleatoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

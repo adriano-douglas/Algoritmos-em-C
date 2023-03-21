@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591647684 source:d:\adriano douglas\desktop\atividade i.p\estruturas 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

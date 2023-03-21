@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587688341 source:d:\adriano douglas\desktop\atividade i.p\extra 2-7 - código de césar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

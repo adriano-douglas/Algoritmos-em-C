@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594486898 source:d:\adriano douglas\desktop\codeblocks\jogo da velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

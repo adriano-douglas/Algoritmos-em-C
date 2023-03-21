@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592577800 source:d:\adriano douglas\desktop\atividade i.p\atividade revisão 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

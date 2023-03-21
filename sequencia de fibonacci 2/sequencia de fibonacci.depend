@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586027902 source:d:\adriano douglas\desktop\codeblocks\sequencia de fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

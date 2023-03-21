@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585593243 source:d:\adriano douglas\desktop\codeblocks\inverter o numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

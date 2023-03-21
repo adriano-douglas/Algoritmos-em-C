@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593288350 source:d:\adriano douglas\desktop\atividade i.p\alocação dinâmica de memória 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

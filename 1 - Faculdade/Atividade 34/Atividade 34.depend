@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585319828 source:d:\adriano douglas\desktop\codeblocks\atividade 34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

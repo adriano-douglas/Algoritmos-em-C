@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586183833 source:d:\adriano douglas\desktop\codeblocks\corrigindo provas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

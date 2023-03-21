@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586820981 source:d:\adriano douglas\desktop\atividade i.p\extra 6 multiplo de 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589460898 source:d:\adriano douglas\desktop\codeblocks\funções 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+

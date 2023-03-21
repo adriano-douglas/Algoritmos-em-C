@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589227244 source:d:\adriano douglas\desktop\codeblocks\dissecando matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589647529 source:d:\adriano douglas\desktop\codeblocks\números aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+

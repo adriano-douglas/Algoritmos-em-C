@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593788205 source:d:\adriano douglas\desktop\codeblocks\reservar espaço no cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

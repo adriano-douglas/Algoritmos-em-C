@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588642144 source:d:\adriano douglas\desktop\atividade i.p\atividade matriz 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

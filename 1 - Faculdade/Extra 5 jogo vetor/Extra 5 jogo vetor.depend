@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586473309 source:d:\adriano douglas\desktop\atividade i.p\extra 5 jogo vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

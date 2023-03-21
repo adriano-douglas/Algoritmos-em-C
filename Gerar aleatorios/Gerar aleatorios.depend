@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589734458 source:d:\adriano douglas\desktop\codeblocks\gerar aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

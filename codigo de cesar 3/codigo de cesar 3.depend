@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587915098 source:d:\adriano douglas\desktop\codeblocks\codigo de cesar 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

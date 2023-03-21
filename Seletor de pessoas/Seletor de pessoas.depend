@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586022050 source:d:\adriano douglas\desktop\codeblocks\seletor de pessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

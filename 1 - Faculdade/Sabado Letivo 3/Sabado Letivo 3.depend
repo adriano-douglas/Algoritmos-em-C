@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586090258 source:d:\adriano douglas\desktop\atividade i.p\sabado letivo 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
